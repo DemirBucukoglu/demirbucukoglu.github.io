@@ -4,13 +4,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
-    color: #333;
+    color: #000000;
   }
   
   header {
     text-align: center;
     padding: 1rem;
-    background: #333;
+    background: #000000;
     color: #fff;
   }
   
@@ -22,7 +22,7 @@ body {
   nav ul {
     list-style: none;
     padding: 0;
-    background: #444;
+    background: #000000;
     display: flex;
     justify-content: center;
   }
@@ -45,14 +45,14 @@ body {
   }
   
   main h2 {
-    color: #444;
+    color: #000000;
     border-bottom: 2px solid #61dafb;
     margin-bottom: 10px;
   }
   
   footer {
     text-align: center;
-    background: #333;
+    background: #000000;
     color: #fff;
     padding: 0.1rem 0; /* Reduced padding */
     position: fixed;
